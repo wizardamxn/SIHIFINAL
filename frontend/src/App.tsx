@@ -12,3 +12,5 @@ function App() {
 }
 
 export default App
+
+//ADD A COMMENT IN APP.TSX
