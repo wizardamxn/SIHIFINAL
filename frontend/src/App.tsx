@@ -3,20 +3,15 @@ import Home from "./pages/Home";
 
 function App() {
   return (
-    <div>
+    <div className="bg-[#F7F6F4]">
       <Header />
       <Home />
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
-      <div>1</div>
     </div>
   );
 }
 
 export default App;
+
+
 
 
